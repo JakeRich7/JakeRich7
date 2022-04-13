@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Link to my Portfolio: [Here](https://jakerich7-portfolio.netlify.app/){:target="_blank"}
+Link to my Portfolio: [Here](https://jakerich7-portfolio.netlify.app/)
 
 - 🔭 I’m currently working on a soundcloud clone
 - 🌱 I’m currently learning MongoDB
