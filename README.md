@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Link to my Portfolio: [Here](https://jakerich7-portfolio.netlify.app/)
+
 - 🔭 I’m currently working on a soundcloud clone
 - 🌱 I’m currently learning MongoDB
 - 👯 I’m looking to collaborate on an open source project
