@@ -2,12 +2,10 @@
 
 Link to my Portfolio: [Here](https://jakerich7-portfolio.netlify.app/)
 
-- 🔭 I’m currently working on a soundcloud clone
-- 🌱 I’m currently learning MongoDB
+- 🔭 I’m currently working at NICE CXone
+- 🌱 I’m currently learning Kotlin and C#
 - 👯 I’m looking to collaborate on an open source project
-- 🤔 I’m looking for help with Unreal Engine
 - 💬 Ask me about game development
 - 📫 How to reach me: jacoberichardson7@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving puzzles!!
+- ⚡ Fun fact: I am from Hawaii!
 
